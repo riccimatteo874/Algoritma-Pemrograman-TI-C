@@ -1,3 +1,4 @@
+#NO1
 def rata_rata(nilai):
   if len(nilai) != 0:
     jumlah = 0
@@ -48,7 +49,7 @@ def pangkat_rekursif(a, b):
     
 print(pangkat_rekursif(2, 5))
 
-
+#NO5
 import math
 
 def jarak(x1, y1, x2, y2):
